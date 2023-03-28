@@ -1,2 +1,2 @@
-# BattleshipGame_MP_KJSCE
- MP FOR KJ SOMAIYA COLLEGE OF ENGINEERING 2023
+# BattleShipGame
+MiniProject For KJ Somaiya college of engineering
